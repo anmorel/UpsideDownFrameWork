@@ -1,0 +1,3 @@
+;<?php die();
+
+moduleDir = "modules"

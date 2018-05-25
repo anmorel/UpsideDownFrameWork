@@ -1,0 +1,5 @@
+.idea/
+temp/cache/*
+temp/templates_c/*
+!temp/cache/EMPTY
+!temp/templates_c/EMPTY
